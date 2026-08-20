@@ -1,5 +1,5 @@
-#ifndef cal
-#define cal
+#ifndef calculations
+#define calculations
 
 int add(int x, int y);
 int subtract(int x, int y);
